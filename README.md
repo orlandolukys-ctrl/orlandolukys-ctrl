@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about building projects, teaching, 
 ---
 
 ## 🌟 About Me
-- 🔭 I’m an Engineer of Telecommunications and a Math Professor  
+- 🔭 I am a Telecommunications Engineer and a Mathematics Professor 
 - 🌱 I’m constantly learning and exploring Python and Matlab  
 - 💬 Ask me about Python, Matlab, and mathematics topics  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/orlando-ramirez-85331268/details/experience/)
